@@ -7,7 +7,9 @@
 
          function inputlength()
         {
-			if(input.value.trim() !== "")
+			if(input.value.trim() === "")
+			return 0;
+			else
         	return input.value.length;
         }
 
