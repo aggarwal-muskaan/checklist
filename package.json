@@ -1,0 +1,16 @@
+{
+  "name": "checklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d mynotes"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://aggarwal-muskaan.github.io/mynotes/todo-list.html",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
