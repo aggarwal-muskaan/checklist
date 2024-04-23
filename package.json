@@ -11,6 +11,6 @@
   "license": "ISC",
   "homepage": "https://aggarwal-muskaan.github.io/mynotes/todo-list.html",
   "dependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^5.0.0"
   }
 }
